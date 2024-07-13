@@ -1,15 +1,6 @@
 Advanced C++ Concepts
 Welcome to the Advanced C++ Concepts repository! This project covers a range of advanced topics in C++ programming to help you deepen your understanding and enhance your coding skills.
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Concepts Covered
-Examples
-Contributing
-License
-
 Introduction
 This repository is designed to provide examples and explanations of advanced C++ concepts. Whether you're a seasoned developer looking to refine your skills or a student aiming to learn more about C++, this project will offer valuable insights.
 
