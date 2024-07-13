@@ -28,13 +28,13 @@ git clone https://github.com/narenbakshi/Advanced_tutorial_CPP.git
 Navigate to the project directory:
 
 ```sh
-cd advanced-cpp-concepts
+cd Advanced_tutorial
 ```
 
 Compile and run the examples using your preferred C++ compiler. For instance, using `g++`:
 
 ```sh
-g++ -o example examples/example.cpp
+g++ -o Advanced_tutorial/Advanced_tutorial.cpp
 ./example
 ```
 
