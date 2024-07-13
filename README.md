@@ -36,6 +36,9 @@ Using pointers to functions for callback mechanisms.
 Understanding object slicing and how to prevent it.
 6. Abstract Classes
 Defining and using abstract classes with pure virtual functions.
+
+
+
 Examples
 Vector Example
 List Example
