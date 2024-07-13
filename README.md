@@ -1,6 +1,6 @@
 # Advanced C++ Concepts
 
-Welcome to the **Advanced C++ Concepts** repository! This project covers a range of advanced topics in C++ programming to help you deepen your understanding and enhance your coding skills.
+Welcome to the **Advanced tutorial for C++ ** repository! This project covers a range of advanced topics in C++ programming to help you deepen your understanding and enhance your coding skills.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -22,7 +22,7 @@ This repository is designed to provide examples and explanations of advanced C++
 To get started with this project, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/advanced-cpp-concepts.git
+git clone https://github.com/narenbakshi/Advanced_tutorial_CPP.git
 ```
 
 Navigate to the project directory:
